@@ -10,13 +10,13 @@ function App() {
       <div className='project'>
         <div className='main'>
           <div className='header'>
-            <a href='app.js'><h3>K. Griffith</h3></a>
+            <a><h3>K. Griffith</h3></a>
             <div className='navbar'>
-              <a href='app.js'>APPEARENCES</a>
-              <a href='app.js'>BOOKS</a>
-              <a href='app.js'>NEWS</a>
-              <a href='app.js'>ABOUT</a>
-              <a href='app.js'>CONTACT</a>
+              <a>APPEARENCES</a>
+              <a>BOOKS</a>
+              <a>NEWS</a>
+              <a>ABOUT</a>
+              <a>CONTACT</a>
             </div>
           </div>
           <hr></hr>
@@ -42,9 +42,9 @@ function App() {
                 </p>
                 <h2>Order Now</h2>
                 <div className='orders'>
-                  <a href='app.js'>Amazon</a>
-                  <a href='app.js'>Google</a>
-                  <a href='app.js'>ibooks</a>
+                  <a>Amazon</a>
+                  <a>Google</a>
+                  <a>ibooks</a>
                 </div>
               </div>
               <div>
@@ -81,16 +81,16 @@ function App() {
           <p>I'm a paragraph. Click here to add your own text and edit me. It's easy.</p>
           <div className='section5'>
           <h2>January 18th 2035, The Breakfast Club, Virtual Book Reading <br/> of Swan Isle, 7PM - 8PM EST</h2>  
-          <a href='app.js'>Join</a>
+          <a>Join</a>
           </div>
           <div className='section5'>
           <h2>
           January 31st 2035, The Good Read Club, Online <br/> Conversation with Kayla Griffith, 8PM - 9PM EST</h2>  
-          <a href='app.js'>Join</a>
+          <a>Join</a>
           </div>        
           <div className='section5'>
           <h2>March 2nd 2035, Otto Cafe, Online Book Reading <br/> With Kayla Griffith, 3PM - 4PM EST</h2>  
-          <a href='app.js'>Join</a>
+          <a>Join</a>
           </div>                
         </div>
         <div className='content5'>
@@ -98,7 +98,7 @@ function App() {
             <img src={profile} alt=''/>
             <h1>About Kayla Griffith</h1>
             <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</p>
-            <a href='app.js'>Read More</a>
+            <a>Read More</a>
           </div>
         </div>
       </div>   
